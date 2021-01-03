@@ -17,6 +17,8 @@ namespace X_vs_O
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Menu());
+
+            Console.WriteLine("dsc");
         }
     }
 }
