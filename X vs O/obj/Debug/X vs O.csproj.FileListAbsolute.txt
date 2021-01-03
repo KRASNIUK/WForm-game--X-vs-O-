@@ -1,0 +1,13 @@
+D:\# I\#My programm\C#\forms\X vs O\bin\Debug\X vs O.exe
+D:\# I\#My programm\C#\forms\X vs O\bin\Debug\X vs O.exe.config
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X vs O.csprojAssemblyReference.cache
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X_vs_O.Game1v.resources
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X_vs_O.Game_bot.resources
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X_vs_O.Menu.resources
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X_vs_O.Properties.Resources.resources
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X vs O.csproj.GenerateResource.cache
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X vs O.csproj.CoreCompileInputs.cache
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X vs O.exe
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X vs O.pdb
+D:\# I\#My programm\C#\forms\X vs O\bin\Debug\X vs O.pdb
+D:\# I\#My programm\C#\forms\X vs O\obj\Debug\X_vs_O.Game2v.resources
